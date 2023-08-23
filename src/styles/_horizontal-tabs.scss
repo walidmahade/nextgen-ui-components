@@ -1,0 +1,13 @@
+.product-highlights--horizontal {
+  grid-template-columns: 1fr;
+  grid-auto-flow: unset;
+  gap: 0;
+
+  .product-highlights__tab-list {
+    border-bottom: 1px solid #b55b3b;
+    grid-auto-rows: unset;
+    grid-auto-columns: max-content;
+    grid-auto-flow: column;
+    gap: 0;
+  }
+}
