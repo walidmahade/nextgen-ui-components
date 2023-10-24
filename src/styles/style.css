@@ -91,7 +91,7 @@
 .profile_col-1_max-width {
   max-width: 548px !important;
   width: 100% !important;
-  padding: 0 120px 0 169px !important;
+  padding: 0 120px 0 0 !important;
   border-right: 1px solid #D7D2CB;
 }
 
